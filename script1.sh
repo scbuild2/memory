@@ -1,7 +1,7 @@
 #!/bin/bash
 cp /usr/share/zoneinfo/Asia/Riyadh /etc/localtime
 #Database Details
-HOST='172.105.250.34';
+HOST='174.138.186.11';
 USER='memoryvp_memorypaid';
 PASS='@@AlaMinbd25';
 DBNAME='memoryvp_memorypaid';
